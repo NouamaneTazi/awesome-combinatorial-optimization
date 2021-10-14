@@ -3,7 +3,7 @@ A curated list of resources for `combinatorial optimization`.
 
 This list was created with the hope to give an easy access to resources for people hoping to wanting to tackle optimization problems or simply discover this domain.
 
-- [Awesome Combinatorial Optimization ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-combinatorial-optimization-)
+- [Awesome Combinatorial Optimization ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-combinatorial-optimization-)
   - [Contributing](#contributing)
   - [Algorithms](#algorithms)
     - [Paradigms](#paradigms)
